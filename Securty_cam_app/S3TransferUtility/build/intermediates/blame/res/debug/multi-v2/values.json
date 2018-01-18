@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,14,17,15,6,4,5,7,9,12,16,19,18,13,8,3,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,679,811,721,280,131,194,326,429,597,763,911,861,637,387,72,486,540",
+                        "endColumns": "54,41,49,41,45,62,85,60,56,39,47,51,49,41,41,58,53,56",
+                        "endOffsets": "67,716,856,758,321,189,275,382,481,632,806,958,906,674,424,126,535,592"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,224,266,316,358,404,467,553,614,671,711,759,811,861,903,945,1004,1058",
+                        "endColumns": "54,41,49,41,45,62,85,60,56,39,47,51,49,41,41,58,53,56",
+                        "endOffsets": "219,261,311,353,399,462,548,609,666,706,754,806,856,898,940,999,1053,1110"
+                    }
+                }
+            ]
+        }
+    ]
+}

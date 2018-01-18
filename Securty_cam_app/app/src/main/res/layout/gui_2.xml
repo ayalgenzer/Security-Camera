@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gui"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_above="@+id/rectime"
+        android:layout_alignEnd="@+id/rectime"
+        android:layout_alignParentStart="true"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:text="connecting..."
+            android:textAlignment="center"
+            android:textColor="@color/success" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnvideos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/rectime"
+        android:layout_below="@+id/btnrecord"
+        android:layout_marginEnd="11dp"
+        android:layout_marginTop="11dp"
+        android:backgroundTint="@color/button_default"
+        android:text="video manager"
+        android:textColor="@android:color/background_dark"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/btnrecord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/btnvideos"
+        android:layout_alignTop="@+id/btnstop"
+        android:background="@android:color/black"
+        app:srcCompat="@drawable/record" />
+
+    <ImageButton
+        android:id="@+id/btnstop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btnmode"
+        android:layout_alignEnd="@+id/btnvideos"
+        android:layout_marginBottom="15dp"
+        android:background="@android:color/black"
+        app:srcCompat="@drawable/stop" />
+
+    <Switch
+        android:id="@+id/btnmode"
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        android:layout_alignEnd="@+id/modestr"
+        android:layout_alignTop="@+id/btnleft"
+        android:layout_marginEnd="25dp"
+        android:checked="false"
+        android:thumbTint="@color/green"
+        android:trackTint="@color/white" />
+
+    <TextView
+        android:id="@+id/modestr"
+        android:layout_width="100dp"
+        android:layout_height="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/mode"
+        android:layout_marginEnd="58dp"
+        android:text="ARROWS"
+        android:textAlignment="center"
+        android:textColor="@color/success" />
+
+    <ImageButton
+        android:id="@+id/btndown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnright"
+        android:layout_toEndOf="@+id/btnleft"
+        android:background="@android:color/black"
+        app:srcCompat="@drawable/down" />
+
+    <ImageButton
+        android:id="@+id/btnup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/modestr"
+        android:layout_marginTop="17dp"
+        android:layout_toEndOf="@+id/btnleft"
+        android:background="@android:color/black"
+        app:srcCompat="@drawable/up" />
+
+    <ImageButton
+        android:id="@+id/btnright"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnup"
+        android:layout_toEndOf="@+id/btnup"
+        android:background="@android:color/black"
+        app:srcCompat="@drawable/right" />
+
+    <ImageButton
+        android:id="@+id/btnleft"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnup"
+        android:layout_toStartOf="@+id/btnmode"
+        android:background="@android:color/black"
+        app:srcCompat="@drawable/left" />
+
+    <TextView
+        android:id="@+id/rectime"
+        android:layout_width="147dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnrecord"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/btnup"
+        android:textAlignment="center"
+        android:textColor="@color/success" />
+
+    <TextView
+        android:id="@+id/msgheadline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_alignParentTop="true"
+        android:text="MESSAGE BROKER:"
+        android:textAlignment="center"
+        android:textColor="@color/success" />
+
+    <TextView
+        android:id="@+id/mode"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/btnright"
+        android:layout_alignParentTop="true"
+        android:text="MODE:"
+        android:textAlignment="center"
+        android:textColor="@color/success" />
+
+</RelativeLayout>

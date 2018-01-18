@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ayalgenzer.security_cam">
+
+    <uses-sdk tools:overrideLibrary="com.amazonaws.demo.s3transferutility"/>
+    <uses-permission  android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-feature android:name="android.hardware.camera" android:required="true"/>
+
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:hardwareAccelerated="true"
+        tools:replace="android:icon">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.amazonaws.demo.androidpubsub.PubSubActivity" />
+        <activity
+            android:name="com.amazonaws.youruserpools.CognitoMainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.UserActivity"
+            android:label="@string/title_activity_user"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.RegisterUser"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.AboutApp"
+            android:label="@string/title_activity_about_app"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.SignUpConfirm"
+            android:label="@string/title_activity_sign_up_confirm"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.MFAActivity"
+            android:label="@string/title_activity_mfa"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.ForgotPasswordActivity"
+            android:label="@string/title_activity_forgot_password"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.ChangePasswordActivity"
+            android:label="@string/title_activity_change_password"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.VerifyActivity"
+            android:label="@string/title_activity_verify"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.AddAttributeActivity"
+            android:label="@string/title_activity_add_attribute"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.DeviceSettings"
+            android:label="@string/title_activity_device_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.amazonaws.youruserpools.NewPassword"
+            android:label="@string/title_activity_new_password"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VideoActivity"
+            android:label="@string/app_name"
+            android:configChanges="keyboardHidden|orientation|screenSize" > <!-- Prevent Activity restart on such events (specially on orientation change) -->
+        </activity>
+        <activity
+            android:name="name.cpr.ExampleActivity"
+            android:label="@string/app_name"
+            android:configChanges="keyboardHidden|orientation|screenSize" > <!-- Prevent Activity restart on such events (specially on orientation change) -->
+        </activity>
+        <activity
+            android:name=".GyroActivity"
+            android:label="@string/app_name"
+            android:configChanges="keyboardHidden|orientation|screenSize" > <!-- Prevent Activity restart on such events (specially on orientation change) -->
+        </activity>
+        <service
+            android:name="com.amazonaws.mobileconnectors.s3.transferutility.TransferService"
+            android:enabled="true" />
+
+
+    </application>
+
+</manifest>

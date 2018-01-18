@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ayalgenzer/project/Security_cam_video/video/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml",
+            "map": [
+                {
+                    "source": "/home/ayalgenzer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/8a4cb923702da5629bed59fda2ce0efc/res/values-uz-rUZ/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,385,493,616,720,837,923,1034,1150,1259,1366,1465,1573,1678,1783",
+                        "endColumns": "104,107,122,103,116,85,110,115,108,106,98,107,104,104,98",
+                        "endOffsets": "380,488,611,715,832,918,1029,1145,1254,1361,1460,1568,1673,1778,1877"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,612,698,809,925,1034,1141,1240,1348,1453,1558",
+                        "endColumns": "104,107,122,103,116,85,110,115,108,106,98,107,104,104,98",
+                        "endOffsets": "155,263,386,490,607,693,804,920,1029,1136,1235,1343,1448,1553,1652"
+                    }
+                }
+            ]
+        }
+    ]
+}

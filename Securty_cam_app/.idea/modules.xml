@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/S3TransferUtility/S3TransferUtility.iml" filepath="$PROJECT_DIR$/S3TransferUtility/S3TransferUtility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Security_cam.iml" filepath="$PROJECT_DIR$/Security_cam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video/video.iml" filepath="$PROJECT_DIR$/video/video.iml" />
+    </modules>
+  </component>
+</project>

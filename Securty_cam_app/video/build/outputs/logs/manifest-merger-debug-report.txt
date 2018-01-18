@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:8:5-83
+	android:required
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:8:58-81
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:8:19-57
+application
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:10:5-25:19
+	android:label
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:13:9-41
+	android:hardwareAccelerated
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:15:9-43
+	android:icon
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:14:9-40
+activity#name.cpr.ExampleActivity
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:20:13-74
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:18:13-52
+intent-filter#android.intent.category.LAUNCHER
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:21:13-23:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+		ADDED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/video/src/main/AndroidManifest.xml

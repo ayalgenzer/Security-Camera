@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_download.xml",
+        "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/layout/activity_download.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/bucket_item.xml",
+        "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/layout/bucket_item.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_download_selection.xml",
+        "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/layout/activity_download_selection.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/record_item.xml",
+        "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/layout/record_item.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_upload.xml",
+        "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/layout/activity_upload.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/layout/activity_main.xml"
+    }
+]

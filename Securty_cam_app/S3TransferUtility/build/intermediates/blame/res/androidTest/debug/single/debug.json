@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/layout_activity_download_selection.xml.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/layout/activity_download_selection.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/layout-v14_activity_s3_main.xml.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/layout-v14/activity_s3_main.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/layout_activity_s3_main.xml.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/layout/activity_s3_main.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/layout_record_item.xml.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/layout/record_item.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/layout_bucket_item.xml.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/layout/bucket_item.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/layout_activity_upload.xml.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/layout/activity_upload.xml"
+    },
+    {
+        "merged": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/res/merged/androidTest/debug/layout_activity_download.xml.flat",
+        "source": "/home/ayalgenzer/project/Security_cam/S3TransferUtility/build/intermediates/bundles/debug/res/layout/activity_download.xml"
+    }
+]

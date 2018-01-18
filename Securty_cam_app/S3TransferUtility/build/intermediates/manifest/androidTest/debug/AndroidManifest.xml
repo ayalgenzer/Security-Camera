@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amazonaws.demo.s3transferutility.test" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="10" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.amazonaws.demo.s3transferutility.test"
+        android:targetPackage="com.amazonaws.demo.s3transferutility.test" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity android:name="com.amazonaws.demo.s3transferutility.S3_MainActivity" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.amazonaws.demo.s3transferutility.DownloadActivity"
+            android:label="@string/download_activity" />
+        <activity
+            android:name="com.amazonaws.demo.s3transferutility.UploadActivity"
+            android:label="@string/upload_activity" />
+        <activity
+            android:name="com.amazonaws.demo.s3transferutility.DownloadSelectionActivity"
+            android:label="@string/download_selection_activity" />
+
+        <service
+            android:name="com.amazonaws.mobileconnectors.s3.transferutility.TransferService"
+            android:enabled="true" />
+    </application>
+
+</manifest>

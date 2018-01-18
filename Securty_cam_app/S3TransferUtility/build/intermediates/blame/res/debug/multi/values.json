@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 54,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 54,
+                        "endOffset": 67
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 41,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 41,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 49,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 49,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 41,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 41,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 45,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 45,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 62,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 62,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 85,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 85,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 60,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 60,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 56,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 56,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 39,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 39,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 47,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 47,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 51,
+                    "endOffset": 806
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 51,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 811,
+                    "endColumn": 49,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 49,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 41,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 41,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 41,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 41,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 58,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 58,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endColumn": 53,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 53,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 56,
+                    "endOffset": 1110
+                },
+                "from": {
+                    "file": "/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 56,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    }
+]

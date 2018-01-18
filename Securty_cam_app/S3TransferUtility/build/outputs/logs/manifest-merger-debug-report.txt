@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:2:5-51
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:4:5-30
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:3:5-28
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+uses-sdk
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:8:9-38
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:7:9-35
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+		INJECTED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:15:22-78
+application
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:17:5-39:19
+	android:label
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:18:9-35
+activity#com.amazonaws.demo.s3transferutility.S3_MainActivity
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:21:9-25:20
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:21:19-86
+intent-filter#android.intent.category.LAUNCHER
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:22:13-24:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:23:27-74
+activity#com.amazonaws.demo.s3transferutility.DownloadActivity
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:26:9-28:57
+	android:label
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:27:13-81
+activity#com.amazonaws.demo.s3transferutility.UploadActivity
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:29:9-31:55
+	android:label
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:30:13-79
+activity#com.amazonaws.demo.s3transferutility.DownloadSelectionActivity
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:32:9-34:67
+	android:label
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:34:13-64
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:33:13-90
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:36:9-38:38
+	android:enabled
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:38:13-35
+	android:name
+		ADDED from /home/ayalgenzer/project/Security_cam/S3TransferUtility/AndroidManifest.xml:37:13-93

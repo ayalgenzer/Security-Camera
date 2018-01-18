@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ayalgenzer/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.6.11/7001609aa40c973c99d12996c1f851e194c0998e/aws-android-sdk-core-2.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7001609aa40c973c99d12996c1f851e194c0998e">
+        <dex dex="/home/ayalgenzer/project/samples/aws-sdk-android-samples-master/S3TransferUtilitySample/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.6.11_185d3272b9028ae39c856ae0003defb52ebaba09.jar" />
+    </item>
+
+</items>

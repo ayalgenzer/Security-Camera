@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ayalgenzer/project/Security_cam_video/video/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-km-rKH/values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "/home/ayalgenzer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/8a4cb923702da5629bed59fda2ce0efc/res/values-km-rKH/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,383,491,614,714,826,913,1017,1133,1237,1342,1442,1552,1659,1767,1890",
+                        "endColumns": "102,107,122,99,111,86,103,115,103,104,99,109,106,107,122,97",
+                        "endOffsets": "378,486,609,709,821,908,1012,1128,1232,1337,1437,1547,1654,1762,1885,1983"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,908,1012,1117,1217,1327,1434,1542,1665",
+                        "endColumns": "102,107,122,99,111,86,103,115,103,104,99,109,106,107,122,97",
+                        "endOffsets": "153,261,384,484,596,683,787,903,1007,1112,1212,1322,1429,1537,1660,1758"
+                    }
+                }
+            ]
+        }
+    ]
+}
